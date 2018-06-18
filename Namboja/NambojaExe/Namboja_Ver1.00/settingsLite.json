@@ -1,0 +1,39 @@
+{
+    "intervalTime": " 5",
+    "forTop": false,
+    "isExeLog": false,
+    "boxdatas": [
+        {
+            "tradeEx": "",
+            "currency": "",
+            "baseCurrency": "",
+            "isSymbol": false,
+            "outPut": "",
+            "outPutFld": ""
+        },
+        {
+            "tradeEx": null,
+            "currency": "",
+            "baseCurrency": "",
+            "isSymbol": false,
+            "outPut": "",
+            "outPutFld": ""
+        },
+        {
+            "tradeEx": null,
+            "currency": "",
+            "baseCurrency": "",
+            "isSymbol": false,
+            "outPut": "",
+            "outPutFld": ""
+        },
+        {
+            "tradeEx": null,
+            "currency": "",
+            "baseCurrency": "",
+            "isSymbol": false,
+            "outPut": "",
+            "outPutFld": ""
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "intervalTime": " 5",
+    "forTop": false,
+    "isExeLog": false,
+    "boxdatas": [
+        {
+            "tradeEx": null,
+            "currency": "",
+            "baseCurrency": "",
+            "isSymbol": false,
+            "outPut": "",
+            "outPutFld": ""
+        },
+        {
+            "tradeEx": "",
+            "currency": "",
+            "baseCurrency": "",
+            "isSymbol": false,
+            "outPut": "NONE",
+            "outPutFld": ""
+        },
+        {
+            "tradeEx": null,
+            "currency": "",
+            "baseCurrency": "",
+            "isSymbol": false,
+            "outPut": "",
+            "outPutFld": ""
+        },
+        {
+            "tradeEx": null,
+            "currency": "",
+            "baseCurrency": "",
+            "isSymbol": false,
+            "outPut": "",
+            "outPutFld": ""
+        },
+        {
+            "tradeEx": null,
+            "currency": "",
+            "baseCurrency": "",
+            "isSymbol": false,
+            "outPut": "",
+            "outPutFld": ""
+        },
+        {
+            "tradeEx": null,
+            "currency": "",
+            "baseCurrency": "",
+            "isSymbol": false,
+            "outPut": "",
+            "outPutFld": ""
+        },
+        {
+            "tradeEx": null,
+            "currency": "",
+            "baseCurrency": "",
+            "isSymbol": false,
+            "outPut": "",
+            "outPutFld": ""
+        },
+        {
+            "tradeEx": null,
+            "currency": "",
+            "baseCurrency": "",
+            "isSymbol": false,
+            "outPut": "",
+            "outPutFld": ""
+        },
+        {
+            "tradeEx": null,
+            "currency": "",
+            "baseCurrency": "",
+            "isSymbol": false,
+            "outPut": "",
+            "outPutFld": ""
+        },
+        {
+            "tradeEx": null,
+            "currency": "",
+            "baseCurrency": "",
+            "isSymbol": false,
+            "outPut": "",
+            "outPutFld": ""
+        },
+        {
+            "tradeEx": null,
+            "currency": "",
+            "baseCurrency": "",
+            "isSymbol": false,
+            "outPut": "",
+            "outPutFld": ""
+        },
+        {
+            "tradeEx": null,
+            "currency": "",
+            "baseCurrency": "",
+            "isSymbol": false,
+            "outPut": "",
+            "outPutFld": ""
+        }
+    ]
+}

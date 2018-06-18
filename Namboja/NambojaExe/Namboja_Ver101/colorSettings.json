@@ -1,0 +1,22 @@
+{
+    "exchange": {
+        "foreColor": "#ff000000",
+        "backColor": "#ffe3e3e3"
+    },
+    "pair": {
+        "foreColor": "#ff000000",
+        "backColor": "#ffe3e3e3"
+    },
+    "sellPrice": {
+        "foreColor": "#ff000000",
+        "backColor": "#ffe3e3e3"
+    },
+    "closePrice": {
+        "foreColor": "#ff000000",
+        "backColor": "#ffe3e3e3"
+    },
+    "buyPrice": {
+        "foreColor": "#ff000000",
+        "backColor": "#ffe3e3e3"
+    }
+}
