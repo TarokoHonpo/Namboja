@@ -1,0 +1,19 @@
+﻿{
+  "initValue": 60,
+  "tradePair": "xrp_jpy",
+  "baseCurrOrAmount": "Amount",
+  "fixBaseCurrOrAmount": "Amount",
+  "maeSabun": 0,
+  "atoSabun": -0.1,
+  "maeOrderType": "sell",
+  "maeOrderCloseChkCnt": 10,
+  "maeOrderCloseChkInt": 5,
+  "atoOrderCloseChkCnt": 20,
+  "atoOrderCloseChkInt": 2,
+  "runCntMax": 5,
+  "orderNoFileName": "E:\\AutoTradeLastOrder\\BitBank\\orderNo.txt",
+  "tradeLogFld": "E:\\AutoTradeLog\\BitBankLog\\",
+  "tanizaki": "YOUR API KEY",
+  "goma": "YOUR API SECRET"
+
+}
