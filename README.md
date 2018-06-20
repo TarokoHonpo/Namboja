@@ -14,7 +14,7 @@ Namboja (なんぼじゃー)は仮想通貨の価格を表示するフリーソ�
 ・	アビトラージ用に、同一通貨ペアを最大12取引所、表示できます。  
 ・	データ分析のため、取得した値はCSV形式またはJSON形式にて保存可能です。  
 
-[Namboja ダウンロード](Namboja/NambojaZip/Namboja_Ver1.00.zip)
+[Namboja ダウンロード](Namboja/NambojaZip/Namboja_Ver1.01.zip)
 
 
 **対応取引所(2018/05/25)**  
@@ -26,7 +26,7 @@ HitBTC , Houbi , Kraken , Mercatox , Poloniex ,(Ver1.01で追加)TradeSatoshi , 
 CoinEgg , AEX.com , ZB.com 
 
 *(追加予定の取引所)*  
-未定
+kuCoin,bit-z,bitfinex,OKex
 
 
 **動作環境**　：　Windows 10(64bit) 
